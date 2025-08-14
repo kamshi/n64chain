@@ -14,7 +14,11 @@
 /tools/libexec
 /tools/mips64-elf
 /tools/share
+/tools/stamps
+/tools/tarballs
+/tools/*-build
 /tools/*-linux-gnu
+/tools/*-source
 
 *.a
 *.bin
